@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0720"
+   LastUpgradeVersion = "0730"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,23 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3D0FE4691AE2886400BB4104"
-               BuildableName = "libWebViewJavascriptBridge.a"
+               BlueprintIdentifier = "514450EE1D8990CC00C3B22B"
+               BuildableName = "WebViewJavascriptBridge.framework"
                BlueprintName = "WebViewJavascriptBridge"
-               ReferencedContainer = "container:WebViewJavascriptBridge.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3D0FE4741AE2886500BB4104"
-               BuildableName = "WebViewJavascriptBridgeTests.xctest"
-               BlueprintName = "WebViewJavascriptBridgeTests"
                ReferencedContainer = "container:WebViewJavascriptBridge.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -42,26 +28,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3D0FE4741AE2886500BB4104"
-               BuildableName = "WebViewJavascriptBridgeTests.xctest"
-               BlueprintName = "WebViewJavascriptBridgeTests"
-               ReferencedContainer = "container:WebViewJavascriptBridge.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3D0FE4691AE2886400BB4104"
-            BuildableName = "libWebViewJavascriptBridge.a"
-            BlueprintName = "WebViewJavascriptBridge"
-            ReferencedContainer = "container:WebViewJavascriptBridge.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -78,8 +45,8 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3D0FE4691AE2886400BB4104"
-            BuildableName = "libWebViewJavascriptBridge.a"
+            BlueprintIdentifier = "514450EE1D8990CC00C3B22B"
+            BuildableName = "WebViewJavascriptBridge.framework"
             BlueprintName = "WebViewJavascriptBridge"
             ReferencedContainer = "container:WebViewJavascriptBridge.xcodeproj">
          </BuildableReference>
@@ -96,8 +63,8 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3D0FE4691AE2886400BB4104"
-            BuildableName = "libWebViewJavascriptBridge.a"
+            BlueprintIdentifier = "514450EE1D8990CC00C3B22B"
+            BuildableName = "WebViewJavascriptBridge.framework"
             BlueprintName = "WebViewJavascriptBridge"
             ReferencedContainer = "container:WebViewJavascriptBridge.xcodeproj">
          </BuildableReference>
